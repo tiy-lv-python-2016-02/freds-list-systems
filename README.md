@@ -1,8 +1,7 @@
-# Fred's List Final
+# Fred's List Systems
 
 ## Description
-This is the last time we will be using Fred's List for class.  This assignment will be to push Fred's List live manually and create a server
-with the appropraite systems running to serve the site competely and scalably.
+This assignment will be to push Fred's List live manually and create a server with the appropraite systems running to serve the site competely and scalably.
 
 ## Learning Objectives
 * Basic systems administration
@@ -28,3 +27,8 @@ with the appropraite systems running to serve the site competely and scalably.
 ### Hard Mode
 * Make the system run on postgresql
 * Setup the system to be able to memcached
+
+## External Links
+* [Github Repo](https://github.com/tiy-lv-python-2016-02/freds-list-systems)
+* [Setup Tutorial](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-14-04)
+* [AWS](http://aws.amazon.com)
